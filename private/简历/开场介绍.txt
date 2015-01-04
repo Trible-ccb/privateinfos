@@ -1,0 +1,15 @@
+﻿我现在是数学科学学院研二学生，专业是应用数学,不过大学阶段一直在做计算机相关的东西。其中Android应用开发2年，IOS开发半年。曾在两家公司做过实习生。
+第一家是在创新工场中的移花互动有限公司，我大三暑假在这家公司实习了两个月，负责协作开发酒店达人Android版，这个应用主要用于方便用户手机上找酒店订酒店，目前可以在各大市场上下载。
+第二家是Diigo.inc,在我加入Diigo前，Diigo并没有专门的Android开发小组，我来这之后负责开发Diigo Android版和一个CopyBubble应用。Diigo是一个在线收集信息与管理应用，特色功能是社会化书签和在网页上记录笔记。这个应用发布后填补了Diigo在Android端的空白，并且用户稳定增长。CopyBubble是一个增强Android系统剪贴板的工具应用，它能记录用户曾经复制过的文本，方便用户再次使用，特别的如果复制的是网址，它还会自动加载网页，使得用户在不离开当前应用的情况下预览网页内容。CopyBubble仅发布一周就破万用户下载。
+除了在公司实习外，在校期间还做过应用，游戏，网站开发，数据分析与推荐系统研究。
+
+目前想在Android方面多学东西以及能够更深入了解Android,希望能够得到这样的一个实习机会。
+
+I am a 2nd year postgraduate student at school of mathematics and sciences. My major is applied mathematics, but I spent most time on software development and learning computer science. I have more than 3 years’ experience in software development, including 2 years android development, half a year IOS development. I was as an intern in two companies ever.
+The first one is ikamobile.cn in Innovation Works. I had been there for two months during my junior summer holidays. I was responsible for developing the Hotel Finder android version with team cooperation. This app is used conveniently for finding and ordering hotels on cellphone. Now this app serves millions users.
+The second company is Diigo.Inc, a social bookmark website. There is no a regular android team before I joined in. I was mainly responsible for developing Diigo Android version and another app called CopyBubble. Diigo is a tool for collecting stuff and  information management cross multi-platform. The features are social bookmarking and making notes on website. After this app released Diigo comes up with competitor and keeps user increasing. CopyBubble is a tool for extending the android system clipboard. It can save the content when user copy and is convenient to reuse. Especially, if the content is a URL link that CopyBubble will load the content of the URL in background and user can preview the website without leaving current app. To our surprise, CopyBubble have been downloaded over 10 thousand after released a weak and it keeps increasing.
+In addition to company’s intern, I also develop games, websites and data analysis, recommend system research during my school time
+Now I want to get an internship opportunity to learn more things about android and gain the ability to understand android better.
+
+
+我叫陈垂波，来自广西。目前就读于电子科大数学学院，本科也是在本院，准备研三。我从大一开始接触算法编程，参加ACM集训，在这其间打下了些基础。到大三暑期的时候，得到了一份到创新工场里面的实习offer，主要做Android软件开发，从此就喜欢上了在手机上开发一些小应用。然后在大四研一阶段接触复杂网络，跟随计算机团队学习推荐系统算法，并运用到一个移动公司的工程项目中；到了研二我找了份实习，是一个叫Diigo的外资互联网企业，仍然是做Android开发。所以目前我个人比较擅长移动应用开发，能够一个人完成一个应用也能和团队协作完成整个项目。我对自己的规划是继续走软件开发这条路，最好是在移动应用开发方向上继续发展。
